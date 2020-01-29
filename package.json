@@ -3,7 +3,7 @@
     "build": "node build.js"
   },
   "dependencies": {
-    "chromeless": "^1.5.2",
+    "puppeteer": "^2.1.0",
     "get-unique-random-array": "^1.0.10",
     "random-int": "^2.0.1"
   }
